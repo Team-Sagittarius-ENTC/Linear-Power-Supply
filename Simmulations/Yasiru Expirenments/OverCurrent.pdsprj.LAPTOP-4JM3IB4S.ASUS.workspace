@@ -32,12 +32,6 @@
      <ITEM name="nItems">0</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="695" x="80" flags="00000001" y="524" h="459" pid="0" iid="21">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="81" flags="00008001" y="55" h="459" pid="0" iid="32">
-    <PROPERTIES/>
-   </POPUP>
   </PWI>
  </MODULE>
 </WORKSPACE>
