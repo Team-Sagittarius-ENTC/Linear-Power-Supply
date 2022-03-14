@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=10V_MOSFET Pin=J2-1
+Removed Pin From Net: NetName=10V_out Pin=J2-2
+Added Pin To Net: NetName=10V_out Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2

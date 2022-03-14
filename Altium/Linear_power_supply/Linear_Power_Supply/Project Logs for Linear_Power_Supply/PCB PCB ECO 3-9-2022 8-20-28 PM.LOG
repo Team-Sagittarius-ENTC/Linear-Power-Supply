@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SecPow Pin=R41-1
+Removed Pin From Net: NetName=NetR23_1 Pin=R41-2
+Removed Pin From Net: NetName=GND Pin=R41-3
+Change Component Footprint: Designator=R41 Old Footprint=TRIMMER New Footprint=TRIMPOT
+Change Component Comment : Designator=R41 Old Comment=10KTRIMMER New Comment=10kTrim
+Added Pin To Net: NetName=NetR23_1 Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R41-2
+Added Pin To Net: NetName=SecPow Pin=R41-3
